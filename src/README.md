@@ -1,10 +1,10 @@
 ---
 title: Home
 home: true
-heroText: Hero
+heroText: Southerton Royalty Retrieval
 tagline: Some tagline
-actionText: Go To Github
-actionLink: https://github.com/bencodezen/vuepress-blog-boilerplate
+actionText: Contact Us
+actionLink: /contact/
 features:
 - 
     title: Feature 1
